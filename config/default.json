@@ -1,0 +1,18 @@
+{
+    "server": {
+        "httpPort": 4080
+    },
+    "db": {
+        "host": "localhost",
+        "username": "root",
+        "password": "root",
+        "databases": {
+            "name": "renting-system",
+            "logs": "logs"
+        }
+    },
+    "logger": {
+        "logInDatabase": true,
+        "logInFile": true
+    }
+}

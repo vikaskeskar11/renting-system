@@ -1,0 +1,7 @@
+{
+    "logger": {
+        "logFileName": "application.log",
+        "level": "info",
+        "logOnConsole": false
+    }
+}

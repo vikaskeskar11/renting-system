@@ -1,0 +1,8 @@
+node_modules
+public
+package-docker.json
+logs
+.vscode
+launch.json
+.gitkeep
+docker-compose.deploy.combine.yml
